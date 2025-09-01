@@ -31,4 +31,4 @@ Develop a Tic-Tac-Toe game in **C++** using **Object-Oriented Programming (OOPS)
 ## 📂 How to Run
 1. Clone this repository  
    ```bash
-   git clone https://github.com/your-username/Tic-Tac-Toe-Game-using-Cpp.git
+   git clone https://github.com/HARSHIL-234/TIC-TAC-TOE.CPP
